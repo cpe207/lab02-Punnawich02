@@ -1,40 +1,39 @@
 body {
-    background-color:  #c8c8bc;
-    font-family:Georgia, 'Times New Roman', Times, serif;
+  background-color: #c8c8bc;
+  font-family: Georgia, "Times New Roman", Times, serif;
 }
 
 a {
-    color: #1f1a14;
+  color: #1f1a14;
 }
 
-div {
-    border: solid #1f1a14;
-    width: 500px;
-    margin-left: auto;
-    margin-right: auto;
-}
 
 .text {
-    color: #1f1a14;
-    text-align: center;
-    font-size: large;
+  color: #1f1a14;
+  text-align: center;
+  font-size: large;
 }
 
 .Header {
-    color: #1f1a14;
-    text-align: center;
-    font-style: italic;
+  color: #1f1a14;
+  text-align: center;
+  font-style: italic;
 }
 
 .profile {
-    text-align: center;
+  text-align: center;
 }
 
 .skill-cont {
-    padding-left: 10px;
-    margin-bottom: 10px;
+  border: solid #1f1a14;
+  width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 10px;
+  margin-bottom: 10px;
 }
 
 .link {
-    text-align: center;
+  text-align: center;
 }
+
